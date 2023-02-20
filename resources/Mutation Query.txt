@@ -1,0 +1,57 @@
+mutation AddProduct($product:ProductInputType){
+  createProduct(product:$product){
+    id
+    name
+    price
+  }
+}
+
+{
+  "product": {
+    "name": "Jugo de mandarina",
+    "price": 300
+  }
+}
+
+
+---------------------------------------------
+mutation updateProduct($id:Int $product:ProductInputType){
+  updateProduct(id:$id,product:$product){
+    id
+    name
+    price
+  }
+}
+
+{
+  "id":2,
+  "product": {
+    "name": "Jugo de guayaba",
+    "price": 100
+  }
+}
+-----------------------------------------------------------
+
+mutation deleteProduct($id:Int){
+  deleteProduct(id:$id)
+}
+
+{
+  "id":1
+}
+
+-----------------------------------------------------------
+{
+  products{
+    id
+    name
+    price
+  }
+}
+{
+  product(id:1){
+    id
+    name
+    price
+  }
+}

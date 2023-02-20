@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera\\GrahQLPlanCarrera.csproj": {}
+  },
+  "projects": {
+    "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Domain\\GrahQLPlanCarrera.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Domain\\GrahQLPlanCarrera.Domain.csproj",
+        "projectName": "GrahQLPlanCarrera.Domain",
+        "projectPath": "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Domain\\GrahQLPlanCarrera.Domain.csproj",
+        "packagesPath": "C:\\Users\\tomas_castrillon\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tomas_castrillon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/satrack-ts/_packaging/satrack.nuget.org/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Infrastructure\\GrahQLPlanCarrera.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Infrastructure\\GrahQLPlanCarrera.Infrastructure.csproj",
+        "projectName": "GrahQLPlanCarrera.Infrastructure",
+        "projectPath": "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Infrastructure\\GrahQLPlanCarrera.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\tomas_castrillon\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tomas_castrillon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/satrack-ts/_packaging/satrack.nuget.org/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Domain\\GrahQLPlanCarrera.Domain.csproj": {
+                "projectPath": "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Domain\\GrahQLPlanCarrera.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera\\GrahQLPlanCarrera.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera\\GrahQLPlanCarrera.csproj",
+        "projectName": "GrahQLPlanCarrera",
+        "projectPath": "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera\\GrahQLPlanCarrera.csproj",
+        "packagesPath": "C:\\Users\\tomas_castrillon\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tomas_castrillon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/satrack-ts/_packaging/satrack.nuget.org/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Domain\\GrahQLPlanCarrera.Domain.csproj": {
+                "projectPath": "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Domain\\GrahQLPlanCarrera.Domain.csproj"
+              },
+              "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Infrastructure\\GrahQLPlanCarrera.Infrastructure.csproj": {
+                "projectPath": "D:\\Estudios\\GrahQLPlanCarrera\\src\\GrahQLPlanCarrera\\GrahQLPlanCarrera.Infrastructure\\GrahQLPlanCarrera.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "GraphQL": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "GraphQL.Server.Ui.GraphiQL": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

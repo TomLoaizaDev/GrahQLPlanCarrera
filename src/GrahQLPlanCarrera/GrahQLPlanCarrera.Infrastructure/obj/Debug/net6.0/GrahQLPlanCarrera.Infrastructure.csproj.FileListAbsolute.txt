@@ -1,0 +1,15 @@
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\bin\Debug\net6.0\GrahQLPlanCarrera.Infrastructure.deps.json
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\bin\Debug\net6.0\GrahQLPlanCarrera.Infrastructure.dll
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\bin\Debug\net6.0\GrahQLPlanCarrera.Infrastructure.pdb
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\obj\Debug\net6.0\GrahQLPlanCarrera.Infrastructure.csproj.AssemblyReference.cache
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\obj\Debug\net6.0\GrahQLPlanCarrera.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\obj\Debug\net6.0\GrahQLPlanCarrera.Infrastructure.AssemblyInfoInputs.cache
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\obj\Debug\net6.0\GrahQLPlanCarrera.Infrastructure.AssemblyInfo.cs
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\obj\Debug\net6.0\GrahQLPlanCarrera.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\obj\Debug\net6.0\GrahQLPlanCarrera.Infrastructure.dll
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\obj\Debug\net6.0\refint\GrahQLPlanCarrera.Infrastructure.dll
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\obj\Debug\net6.0\GrahQLPlanCarrera.Infrastructure.pdb
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\obj\Debug\net6.0\ref\GrahQLPlanCarrera.Infrastructure.dll
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\bin\Debug\net6.0\GrahQLPlanCarrera.Domain.dll
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\bin\Debug\net6.0\GrahQLPlanCarrera.Domain.pdb
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Infrastructure\obj\Debug\net6.0\GrahQLPlanCarrera.Infrastructure.csproj.CopyComplete

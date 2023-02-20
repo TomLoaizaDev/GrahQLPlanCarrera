@@ -1,0 +1,12 @@
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Domain\bin\Debug\net6.0\GrahQLPlanCarrera.Domain.deps.json
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Domain\bin\Debug\net6.0\GrahQLPlanCarrera.Domain.dll
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Domain\bin\Debug\net6.0\GrahQLPlanCarrera.Domain.pdb
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Domain\obj\Debug\net6.0\GrahQLPlanCarrera.Domain.csproj.AssemblyReference.cache
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Domain\obj\Debug\net6.0\GrahQLPlanCarrera.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Domain\obj\Debug\net6.0\GrahQLPlanCarrera.Domain.AssemblyInfoInputs.cache
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Domain\obj\Debug\net6.0\GrahQLPlanCarrera.Domain.AssemblyInfo.cs
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Domain\obj\Debug\net6.0\GrahQLPlanCarrera.Domain.csproj.CoreCompileInputs.cache
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Domain\obj\Debug\net6.0\GrahQLPlanCarrera.Domain.dll
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Domain\obj\Debug\net6.0\refint\GrahQLPlanCarrera.Domain.dll
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Domain\obj\Debug\net6.0\GrahQLPlanCarrera.Domain.pdb
+D:\Estudios\GrahQLPlanCarrera\src\GrahQLPlanCarrera\GrahQLPlanCarrera.Domain\obj\Debug\net6.0\ref\GrahQLPlanCarrera.Domain.dll
